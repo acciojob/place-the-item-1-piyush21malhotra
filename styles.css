@@ -1,9 +1,8 @@
 /* Your CSS Code here. */
-.flex-box {
+.holder {
 	height:80px;
 	color: black;
 	display: flex;
-	flex-direction: row;
 	justify-content: space-between;
 	flex-wrap: wrap;
 }
