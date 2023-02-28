@@ -1,2 +1,9 @@
-
 /* Your CSS Code here. */
+div {
+	width:80px;
+	height:80px;
+	color: black;
+	background-color: red;
+	display: inline-flex;
+	margin: 10px;
+}
