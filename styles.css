@@ -1,9 +1,9 @@
 /* Your CSS Code here. */
-div {
-	width:80px;
+.flex-box {
 	height:80px;
 	color: black;
-	background-color: red;
-	display: inline-flex;
-	margin: 10px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	flex-wrap: wrap;
 }
